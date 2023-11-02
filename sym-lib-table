@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74404043010A")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/74404043010A/74404043010A.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML2502TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/IRLML2502TRPBF/IRLML2502TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "IRLML6402TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/IRLML6402TRPBF/IRLML6402TRPBF.kicad_sym")(options "")(descr ""))
+  (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TPS61023DRLT/TPS61023DRLT.kicad_sym")(options "")(descr ""))
+)
