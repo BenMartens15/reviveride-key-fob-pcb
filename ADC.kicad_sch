@@ -634,7 +634,7 @@
   (symbol (lib_id "Device:R_US") (at 135.89 85.09 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a5b44d94-83f1-4e04-9b4b-35943b50ef53)
-    (property "Reference" "R13" (at 138.43 83.82 0)
+    (property "Reference" "R12" (at 138.43 83.82 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 138.43 86.36 0)
@@ -651,7 +651,7 @@
     (instances
       (project "key-fob-pcb"
         (path "/b002c3bf-fc58-4993-80f7-7914d3aa1ac9/793a15b3-1bcd-4264-9b18-9575705590fa"
-          (reference "R13") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -660,7 +660,7 @@
   (symbol (lib_id "Device:R_US") (at 163.83 107.95 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid db4f0c06-d409-4b0c-855e-7552fbf50cb3)
-    (property "Reference" "R14" (at 166.37 106.68 0)
+    (property "Reference" "R13" (at 166.37 106.68 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "100k" (at 166.37 109.22 0)
@@ -677,7 +677,7 @@
     (instances
       (project "key-fob-pcb"
         (path "/b002c3bf-fc58-4993-80f7-7914d3aa1ac9/793a15b3-1bcd-4264-9b18-9575705590fa"
-          (reference "R14") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )

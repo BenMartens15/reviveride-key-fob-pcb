@@ -4,4 +4,5 @@
   (lib (name "IRLML2502TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/IRLML2502TRPBF/IRLML2502TRPBF.kicad_sym")(options "")(descr ""))
   (lib (name "IRLML6402TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/IRLML6402TRPBF/IRLML6402TRPBF.kicad_sym")(options "")(descr ""))
   (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/TPS61023DRLT/TPS61023DRLT.kicad_sym")(options "")(descr ""))
+  (lib (name "2468")(type "KiCad")(uri "${KIPRJMOD}/libraries/symbols/2468/2468.kicad_sym")(options "")(descr ""))
 )
