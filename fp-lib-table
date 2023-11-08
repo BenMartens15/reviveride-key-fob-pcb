@@ -5,4 +5,5 @@
   (lib (name "IRLML6402TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/IRLML6402TRPBF")(options "")(descr ""))
   (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/TPS61023DRLT/footprints.pretty")(options "")(descr ""))
   (lib (name "2468")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/2468")(options "")(descr ""))
+  (lib (name "2469")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/2469")(options "")(descr ""))
 )
