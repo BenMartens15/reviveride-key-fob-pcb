@@ -274,7 +274,7 @@
   )
 
   (symbol (lib_id "Switch:SW_Push") (at 144.78 115.57 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 670fd5c7-63f7-49ac-a62c-637eb933568e)
     (property "Reference" "SW4" (at 144.78 107.95 0)
       (effects (font (size 1.27 1.27)))
@@ -303,7 +303,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x03_Socket") (at 120.65 83.82 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 7174b37d-abb3-4b0b-bb56-b8003962752e)
     (property "Reference" "J2" (at 121.285 91.44 0)
       (effects (font (size 1.27 1.27)))
@@ -330,7 +330,7 @@
   )
 
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 165.1 113.03 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (in_bom no) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a2b64d0-0313-4fe3-9b92-82e13d0719ac)
     (property "Reference" "J1" (at 166.37 113.03 0)
       (effects (font (size 1.27 1.27)) (justify right))
