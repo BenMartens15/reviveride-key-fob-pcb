@@ -8,6 +8,7 @@
     (title "Key Fob")
     (date "2023-10-17")
     (company "J2B")
+    (comment 1 "Author: Ben Martens")
   )
 
   (lib_symbols
