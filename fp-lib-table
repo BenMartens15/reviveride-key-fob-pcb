@@ -6,4 +6,6 @@
   (lib (name "TPS61023DRLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/TPS61023DRLT/footprints.pretty")(options "")(descr ""))
   (lib (name "2468")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/2468")(options "")(descr ""))
   (lib (name "2469")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/2469")(options "")(descr ""))
+  (lib (name "SAMTEC_TSM-102-01-L-SH")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/SAMTEC_TSM-102-01-L-SH")(options "")(descr ""))
+  (lib (name "SAMTEC_TSM-103-01-L-SH-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/footprints/SAMTEC_TSM-103-01-L-SH-TR")(options "")(descr ""))
 )
