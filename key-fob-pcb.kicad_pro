@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|138300000|82500000|0268ca10-ef51-4ee3-b60b-64a7c3c19b85|552f32d1-057e-498d-8428-0fef58669cc3",
+        "silk_edge_clearance|153700000|82500000|0268ca10-ef51-4ee3-b60b-64a7c3c19b85|0b836249-99dc-48e1-bca8-72ad8c125ac1"
+      ],
       "meta": {
         "version": 2
       },
@@ -453,7 +456,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "key-fob-pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
