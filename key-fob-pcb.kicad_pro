@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15239999999999998,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_edge_clearance|148250000|94250000|f14471b2-4455-40e7-a5b0-b630f638fc68|5927da37-6bdb-4363-b1e7-c189a14bd47a",
+        "silk_edge_clearance|166250000|94250000|f14471b2-4455-40e7-a5b0-b630f638fc68|177fd36d-d155-4e0d-beb3-877bbcfaee52"
+      ],
       "meta": {
         "version": 2
       },
@@ -173,10 +176,10 @@
       ],
       "track_widths": [
         0.0,
-        0.15,
-        0.2,
-        0.4,
-        0.6
+        0.127,
+        0.1778,
+        0.254,
+        0.508
       ],
       "via_dimensions": [
         {
@@ -453,7 +456,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "key-fob-pcb.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
